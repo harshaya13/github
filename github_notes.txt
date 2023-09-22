@@ -32,4 +32,6 @@ DELETING A FILE FROM THE REPOSITORY:
 note : the file will not be deleted still
 5. git push origin main
 
+https://www.youtube.com/watch?v=VIBWdLLq9kQ&t=308s
+watch from 32:00
 
