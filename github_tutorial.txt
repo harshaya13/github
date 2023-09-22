@@ -1,0 +1,25 @@
+1. Create a github acc
+2. create a repository
+3. create a text file(for sample)
+4. commands(from github to pc):
+ git clone https://github.com/harshaya13/github.git
+https://github.com/harshaya13/github.git---> copied from the code button(then copy link there)---> new git copy folder will be created
+5. git status ---> to show untracked files
+
+4.(what happend?)--> file from github --> git copy folder(NEW FOLDER WILL BE CREATED) --> working folder
+
+NOTE: the files to be commited to the respository should be in the same git copy folder
+5. check for the untracked files(git status)
+6. git add <filename_withextension>--> example: git add sample.txt
+7. check again "git status"
+8. git commit -m "commit message"
+NOTE : even after this process no changes are made in the github.
+why? it is beacuse the files are still present in the git copy folder.
+
+9. git push origin main
+origin --(the link we copied(repository))
+my folder will be in the main branch
+git repository->main branch-> file
+ 
+recap:
+(created a file)insert--> add-->commit-->push
