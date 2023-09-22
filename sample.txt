@@ -1,7 +1,0 @@
-GitHub Tutorial:
-step by step:-
-1. git status ( to check for the untracked files)
-2. git add filename.extension
-3. git status 
-4. git commit -m "ex: sample.txt modified(similar to comments)"
-5. git push origin main (command as it is)
