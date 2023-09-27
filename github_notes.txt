@@ -32,7 +32,6 @@ DELETING A FILE FROM THE REPOSITORY:
 note : the file will not be deleted still
 5. git push origin main
 
-https://www.youtube.com/watch?v=VIBWdLLq9kQ&t=308s
 FROM GITHUB ACC TO LOCAL PC:
 note: 
 1. clone if there is no git copy folder in your pc first
@@ -40,6 +39,8 @@ note:
 2. if there is a git copy folder already: just go to the folder in cmd(git copy folder should 
    be the current directory) and give:
                                     git pull
---> changes will be updated!
+                                    --> changes will be updated!
 
+https://www.youtube.com/watch?v=VIBWdLLq9kQ&t=308s
+resume 33:00
 
